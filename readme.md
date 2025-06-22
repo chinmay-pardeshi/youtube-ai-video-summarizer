@@ -12,7 +12,7 @@ Built with:
 
 ## 🎥 Demo
 
-![App Demo](https://github.com/yourusername/youtube-summarizer/blob/main/demo/youtube-summarizer-demo.gif)
+![App Demo](https://github.com/chinmay-pardeshi/youtube-ai-video-summarizer/blob/main/demo/youtube-ai-video-summarizer-gif.gif)
 
 > Instantly summarize YouTube videos into bite-sized takeaways with Gemini AI!
 
